@@ -1,6 +1,7 @@
 {
   "name": "Shader-Particles",
   "version": "0.7.9",
+  "main": "build/ShaderParticles.js",
   "devDependencies": {
     "grunt": "~0.4.1",
     "grunt-contrib-concat": "~0.3.0",
